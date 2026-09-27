@@ -1,0 +1,24 @@
+# Arduino / PlatformIO
+*.hex
+*.elf
+*.bin
+*.map
+.pio/
+build/
+dist/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Sensitive models / datasets (extra safety)
+*.keras
+*.h5
+*.onnx
+*.pt
+*.pth
+*.csv
