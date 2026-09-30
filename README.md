@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TÜBİTAK 2209-A](https://img.shields.io/badge/TÜBİTAK-2209--A%20Destekli-red?style=for-the-badge&logo=shield)
+![TÜBİTAK 2209-A](https://img.shields.io/badge/TÜBİTAK-2209--A%20Kapsamında-red?style=for-the-badge&logo=shield)
 ![ESP32](https://img.shields.io/badge/ESP32-BLE%20Firmware-green?style=for-the-badge&logo=espressif)
 ![C++](https://img.shields.io/badge/C%2F%2B%2B-Arduino%20Core-00599C?style=for-the-badge&logo=cplusplus)
 ![Sensors](https://img.shields.io/badge/Sensors-AD8232%20%7C%20MAX30102%20%7C%20ADS1115-orange?style=for-the-badge)
@@ -13,7 +13,7 @@
 <img src="assets/app_logo.png" alt="Ritim-EL Logo" width="130" />
 
 ### **"Kalp Ritminiz, Parolanızdır."**
-*TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı Kapsamında Geliştirilmiştir.*
+*TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı kapsamında hazırlanmıştır (başvuru aşamasında).*
 
 </div>
 
@@ -27,7 +27,7 @@ Bu depo, projenin **gömülü donanım (embedded hardware), sensör entegrasyonu
 
 > [!NOTE]
 > **Araştırma & Fikri Mülkiyet Gizlilik Bildirimi:**  
-> Bu açık kaynaklı depo, TÜBİTAK 2209-A araştırma projesinin **ESP32 Gömülü Donanım & BLE Firmware** mimarisini içermektedir. Çekirdek yapay zeka modelleri (PTB-XL ve ECG-ID veri setleriyle eğitilmiş derin öğrenme / CNN-LSTM transfer learning sınıflandırıcıları), veri tabanı şeması ve kiosk kilit mekanizması araştırma gizliliği ve telif hakları nedeniyle özel depoda (private core repository) korunmaktadır.
+> Bu açık kaynaklı depo, TÜBİTAK 2209-A kapsamında hazırlanan araştırma projesinin **ESP32 Gömülü Donanım & BLE Firmware** mimarisini içermektedir. Çekirdek yapay zeka modelleri (PTB-XL ve ECG-ID veri setleriyle eğitilmiş derin öğrenme / CNN-LSTM transfer learning sınıflandırıcıları), veri tabanı şeması ve kiosk kilit mekanizması araştırma gizliliği ve telif hakları nedeniyle özel depoda (private core repository) korunmaktadır.
 
 ---
 
@@ -119,7 +119,7 @@ Arduino Kütüphane Yöneticisi üzerinden aşağıdaki kütüphaneleri yükleyi
 
 ## 👥 Geliştiriciler
 
-Bu proje, TÜBİTAK 2209-A kapsamında **iki kişilik bir ekip** tarafından bitirme projesi olarak geliştirilmiştir.
+Bu proje, TÜBİTAK 2209-A kapsamında hazırlanan bir bitirme projesi olarak **iki kişilik bir ekip** tarafından geliştirilmiştir.
 
 | İsim | Bölüm / Rol | GitHub | LinkedIn | İletişim / E-Posta |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ Bu proje, TÜBİTAK 2209-A kapsamında **iki kişilik bir ekip** tarafından bit
 
 ## 📜 Lisans & Telif Hakkı
 
-Bu proje **TÜBİTAK 2209-A** araştırma projesi kapsamında geliştirilmiş olup, donanım firmware katmanı [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak paylaşılmıştır.
+Bu proje **TÜBİTAK 2209-A** kapsamında hazırlanan bir araştırma projesi olup, donanım firmware katmanı [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak paylaşılmıştır.
