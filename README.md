@@ -117,14 +117,14 @@ Arduino Kütüphane Yöneticisi üzerinden aşağıdaki kütüphaneleri yükleyi
 
 ---
 
-## 👥 Ekip
+## 👥 Geliştiriciler
 
 Bu proje, TÜBİTAK 2209-A kapsamında **iki kişilik bir ekip** tarafından bitirme projesi olarak geliştirilmiştir.
 
 | İsim | Bölüm / Rol | GitHub | LinkedIn | İletişim / E-Posta |
 |---|---|---|---|---|
 | **Hüseyin Konak** | Bilgisayar Mühendisliği Lisans Öğrencisi · Donanım ve Uygulama Geliştirme | [@huseyin-konak](https://github.com/huseyin-konak) | [linkedin.com/in/huseyin-konak](https://www.linkedin.com/in/huseyin-konak/) | [huseyinkonak.dev@gmail.com](mailto:huseyinkonak.dev@gmail.com) |
-| **Tolga Karateke** | Proje Ekip Üyesi | – | [Tolga Karateke](https://www.linkedin.com/in/tolga-karateke-8a849a297/) | – |
+| **Tolga Karateke** | Geliştirici | – | [Tolga Karateke](https://www.linkedin.com/in/tolga-karateke-8a849a297/) | [ttolgakarateke07900@gmail.com](mailto:ttolgakarateke07900@gmail.com) |
 
 ---
 
