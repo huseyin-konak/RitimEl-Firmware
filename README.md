@@ -117,11 +117,13 @@ Arduino Kütüphane Yöneticisi üzerinden aşağıdaki kütüphaneleri yükleyi
 
 ---
 
-## 👤 Geliştirici
+## 👥 Ekip
+
+Bu proje, TÜBİTAK 2209-A kapsamında **iki kişilik bir ekip** tarafından bitirme projesi olarak geliştirilmiştir.
 
 | İsim | Bölüm / Rol | GitHub | LinkedIn | İletişim / E-Posta |
 |---|---|---|---|---|
-| **Hüseyin Konak** | Bilgisayar Mühendisliği Lisans Öğrencisi & Araştırmacı | [@huseyin-konak](https://github.com/huseyin-konak) | [linkedin.com/in/huseyin-konak](https://www.linkedin.com/in/huseyin-konak/) | [huseyinkonak.dev@gmail.com](mailto:huseyinkonak.dev@gmail.com) |
+| **Hüseyin Konak** | Bilgisayar Mühendisliği Lisans Öğrencisi · Donanım ve Uygulama Geliştirme | [@huseyin-konak](https://github.com/huseyin-konak) | [linkedin.com/in/huseyin-konak](https://www.linkedin.com/in/huseyin-konak/) | [huseyinkonak.dev@gmail.com](mailto:huseyinkonak.dev@gmail.com) |
 
 ---
 
