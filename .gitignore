@@ -1,4 +1,7 @@
-# Arduino / PlatformIO
+# Yerel gizli ayarlar (sablon: firmware/ritim_el_v2_ble/secrets_example.h)
+secrets.h
+
+# Arduino / PlatformIO derleme ciktilari
 *.hex
 *.elf
 *.bin
@@ -7,7 +10,7 @@
 build/
 dist/
 
-# Editor / OS
+# Editor / isletim sistemi
 .vscode/
 .idea/
 *.swp
@@ -15,7 +18,7 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Sensitive models / datasets (extra safety)
+# Model ve veri dosyalari bu depoda tutulmaz
 *.keras
 *.h5
 *.onnx
